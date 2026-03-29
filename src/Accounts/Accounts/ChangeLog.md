@@ -19,6 +19,8 @@
 -->
 
 ## Upcoming Release
+
+## Version 5.3.4
 * Updated MSAL to 4.83.1 for bug fixes in IMDS endpoint cache.
 
 ## Version 5.3.3
