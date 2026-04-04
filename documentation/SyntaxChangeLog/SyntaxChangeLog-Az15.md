@@ -1,3 +1,5 @@
+## 15.6.0 - April 2026
+
 ## 15.5.0 - April 2026
 #### Az.CosmosDB 1.20.0 
 * Modified cmdlet `New-AzCosmosDBAccount`
@@ -1259,6 +1261,7 @@
    - Changed the type of parameter `-ManagedResourcesNetworkAccessType` from `ManagedResourcesNetworkAccessType` to `String`
    - Changed the type of parameter `-UserAssignedIdentity` from `Hashtable` to `String[]`
 * Added cmdlet `Update-AzWorkloadsProviderInstance`
+
 
 
 
